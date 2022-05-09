@@ -1,0 +1,8 @@
+{
+  "name": "NumerosDeEmergencia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9730d280"
+}
